@@ -157,6 +157,17 @@
   }
 }
 
-.quillWrapper {
-  background: #ffffff;
+.btn-small-icon {
+  outline: none;
+  display: inline-block;
+  height: 24px;
+  padding: 0 10px;
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  color: rgba(0, 0, 0, 0.25);
+
+  &:hover {
+    background: #d4d4d4;
+    color: darkslategray;
+    text-decoration: none;
+  }
 }

@@ -1,6 +1,7 @@
 @import '~bootstrap/scss/bootstrap.scss';
 @import 'config/_variables';
 @import 'config/_typography';
+@import '_icomoon';
 
 @import '_layout';
 @import '_header';
@@ -9,7 +10,7 @@
 
 @import '_form';
 @import '_search';
-@import '_books';
+@import '_posts';
 @import '_cart';
 
 .rq-controls {
